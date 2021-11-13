@@ -9,6 +9,7 @@
 11/09/21 : islucky <br>
 11/09/21 : Sortbyheight <br>
 11/12/21 : plusone <br>
+11/13/21 : majorityelement : Boyer-Moore Voting Algorithm <br>
 # DataStructure practice
 11/02/21 : Reverse_linked_list<br>
 11/02/21 : Maximum Subarrays<br>
